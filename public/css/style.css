@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  .quote-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  img {
+    max-width: 200px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .author {
+    font-style: italic;
+    color: #555;
+  }

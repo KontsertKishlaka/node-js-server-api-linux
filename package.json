@@ -1,0 +1,26 @@
+{
+  "name": "js-server-api-linux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KontsertKishlaka/node-js-server-api-linux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KontsertKishlaka/node-js-server-api-linux/issues"
+  },
+  "homepage": "https://github.com/KontsertKishlaka/node-js-server-api-linux#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2",
+    "pug": "^3.0.3"
+  }
+}
